@@ -103,12 +103,16 @@ small{
 }
 .links a{
     margin-right: 10px;
+    display: inline-flex;
+    text-decoration: none;
+    align-items: center;
+    width: 30px;
 }
-i{
+/* i{
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
 .links a i.fa-facebook-f{
     padding: 6px;
     width: 100;
