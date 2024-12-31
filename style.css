@@ -104,6 +104,11 @@ small{
 .links a{
     margin-right: 10px;
 }
+i{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .links a i.fa-facebook-f{
     padding: 6px;
     width: 100;
